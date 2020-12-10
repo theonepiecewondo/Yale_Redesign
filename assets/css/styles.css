@@ -4,7 +4,7 @@
     padding-bottom: 10px;
 }
 .hero{
-    background-image: url("../images/YaleArt.jpg");
+    background-image: url("../images/YaleArt.webp");
     background-color: rgba(37, 37, 37, 0.4);
     width: 100%;
     min-height: 50vh;
@@ -130,7 +130,7 @@
     background-image: linear-gradient(to left, violet, indigo, blue, green, orange, red);
   }
   .img_cell {
-    background-image: url("../images/week.jpg");
+    background-image: url("../images/week.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 80%;
@@ -138,7 +138,7 @@
     height: 25vh;
   }
   .img_cell2 {
-    background-image: url("../images/news.jpg");
+    background-image: url("../images/news.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -146,7 +146,7 @@
     height: 25vh;
   }
   .img_cell3 {
-    background-image: url("../images/fall_sound.jpg");
+    background-image: url("../images/fall_sound.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 20%;
@@ -154,7 +154,7 @@
     height: 25vh;
   }
   .img_cell4{
-    background-image: url("../images/artdean_yalenews-2.jpg");
+    background-image: url("../images/artdean_yalenews-2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 20%;
@@ -162,7 +162,7 @@
     height: 25vh;
   }
   .img_cell5{
-    background-image: url("../images/Angela_Davis_pic.jpg");
+    background-image: url("../images/Angela_Davis_pic.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 20%;
@@ -205,101 +205,101 @@
   height: 25vh;
 }
 .jessica{
-  background-image: url("../images/jessica.jpg");
+  background-image: url("../images/jessica.webp");
 
 }
 .brian{
-  background-image: url("../images/brian.jpg");
+  background-image: url("../images/brian.webp");
 }
 .dylan{
-  background-image: url("../images/dylan.jpg");
+  background-image: url("../images/dylan.webp");
 }
 .sam{
-  background-image: url("../images/sam.jpg");
+  background-image: url("../images/sam.webp");
 }
 .salvador{
-  background-image: url("../images/salvador.jpg");
+  background-image: url("../images/salvador.webp");
 }
 .grant{
-  background-image: url("../images/grant.jpg");
+  background-image: url("../images/grant.webp");
 }
 .brianna{
-  background-image: url("../images/Brianna.jpg");
+  background-image: url("../images/Brianna.webp");
 }
 .emily{
-  background-image: url("../images/Emily.jpg");
+  background-image: url("../images/Emily.webp");
 }
 .chinafdy{
-  background-image: url("../images/Chinafdy.jpg");
+  background-image: url("../images/Chinafdy.webp");
 }
 .hannah{
-  background-image: url("../images/Hannah.jpg");
+  background-image: url("../images/Hannah.webp");
 }
 .quinci{
-  background-image: url("../images/Quincy.jpg");
+  background-image: url("../images/Quincy.webp");
 }
 .anabelle{
-  background-image: url("../images/Annabell.jpg");
+  background-image: url("../images/Annabell.webp");
 }
 .alex{
-  background-image: url("../images/Alex.jpg");
+  background-image: url("../images/Alex.webp");
 }
 .justin{
-  background-image: url("../images/Justin.jpg");
+  background-image: url("../images/Justin.webp");
 }
 .riley{
-  background-image: url("../images/Riley.jpg");
+  background-image: url("../images/Riley.webp");
 }
 .cristobal{
-  background-image: url("../images/Cristobal.jpg");
+  background-image: url("../images/Cristobal.webp");
 }
 .zoila{
-  background-image: url("../images/zoila.jpg");
+  background-image: url("../images/zoila.webp");
 }
 .yuan{
-  background-image: url("../images/Yuan.jpg");
+  background-image: url("../images/Yuan.webp");
 }
 .erik{
-  background-image: url("../images/Erik.jpg");
+  background-image: url("../images/Erik.webp");
 }
 .anne{
-  background-image: url("../images/Anne.jpg");
+  background-image: url("../images/Anne.webp");
 }
 .brennen{
-  background-image: url("../images/Brennen.jpg");
+  background-image: url("../images/Brennen.webp");
 }
 .ashley{
-  background-image: url("../images/Ashley.jpg");
+  background-image: url("../images/Ashley.webp");
 }
 .mike{
-  background-image: url("../images/Mike.jpg");
+  background-image: url("../images/Mike.webp");
 }
 .kathryn{
-  background-image: url("../images/Kathryn.jpg");
+  background-image: url("../images/Kathryn.webp");
 }
 .amartya{
-  background-image: url("../images/Amartya.jpg");
+  background-image: url("../images/Amartya.webp");
 }
 .brett{
-  background-image: url("../images/Brett.jpg");
+  background-image: url("../images/Brett.webp");
 }
 .athena{
-  background-image: url("../images/Athena.jpg");
+  background-image: url("../images/Athena.webp");
 }
 .eileen{
-  background-image: url("../images/Eileen.jpg");
+  background-image: url("../images/Eileen.webp");
 }
 .ian{
-  background-image: url("../images/Ian.jpg");
+  background-image: url("../images/Ian.webp");
 }
 .churong{
-  background-image: url("../images/Churong.jpg");
+  background-image: url("../images/Churong.webp");
 }
 .han{
-  background-image: url("../images/Han.jpg");
+  background-image: url("../images/Han.webp");
 }
 .katherine{
-  background-image: url("../images/Katherine.jpg");
+  background-image: url("../images/Katherine.webp");
 }
   @media only screen and (max-width: 1300px) {
   
